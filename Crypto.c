@@ -4,7 +4,7 @@
  Author      : Vivek Verma
  Version     : 1.0
  Copyright   : GPL
- Description : Hello World in C, Ansi-style
+ Description : AES Driver Code 
  ============================================================================
  */
 
